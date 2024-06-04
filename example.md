@@ -222,9 +222,9 @@ layout: pageBar
 
 <div grid="~ cols-2 gap-20">
 
-![](Graph/proc_small.jpg)
+![](/Graph/proc_small.jpg)
 
-![](Graph/ProcessOnTarget_cut4.png)
+![](/Graph/ProcessOnTarget_cut4.png)
 
 </div>
 
